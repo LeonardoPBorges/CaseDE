@@ -36,6 +36,10 @@ Para a criação da API
       -- Para os dados de Ativos foram utilizadas as seguintes regras disponiveis no arquivo: teste_api_coin_ativos.py  
       -- Para os dados de Preço foram utilizadas as seguintes regras disponiveis no arquivo: tete_api_coin_preço.py  
 
+
+<img width="1904" height="903" alt="image" src="https://github.com/user-attachments/assets/4a249893-59eb-4ea5-a4e9-8c0c41e080cd" />
+
+
 ------------------------------------------------
 Tratamento Dos Dados - Big Query
 ------------------------------------------------
@@ -44,6 +48,9 @@ Tratamento Dos Dados - Big Query
       -- Stage: Os dados forma levados de forma bruta, conforme os dados extraidos na API, sem transformações.  
       -- Raw: nesta camada os dados são replicados da Stage para a Raw, mantendo seu formato Original.  
       -- Trusted: Nesta camada foi realizado o tratamento de nome das colunas para o padrão, tipagem dos Dados, definido as Strings em NUMERIC, FLOAT, INT, DATE  
+
+<img width="1576" height="704" alt="image" src="https://github.com/user-attachments/assets/00aabfbe-c1fa-4a8f-96b8-14212f3ca648" />
+
  
 ------------------------------------------------
 Valização dos Dados em DataViz
