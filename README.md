@@ -52,6 +52,9 @@ Valização dos Dados em DataViz
   Gerando alguns dados consolidados referentes as Criptomoedas e alguns Insghts relevante para os dados obtidos  
   Link do Dashboard: https://lookerstudio.google.com/u/1/reporting/27168d6a-71c8-4418-9fe5-c0633fddf858/page/UuTrF  
   
+  <img width="1501" height="665" alt="image" src="https://github.com/user-attachments/assets/014f1aa2-180d-4eeb-ae76-5c2767c05e8a" />
+
+  
 ------------------------------------------------
 END
 ------------------------------------------------
