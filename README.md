@@ -50,7 +50,8 @@ Valização dos Dados em DataViz
 ------------------------------------------------
   Foi utilizado o Looker para a visualização dos dados em formatos acessiveis, e com visuais rápidos e de fácil entendimento.   
   Gerando alguns dados consolidados referentes as Criptomoedas e alguns Insghts relevante para os dados obtidos  
-
+  Link do Dashboard: https://lookerstudio.google.com/u/1/reporting/27168d6a-71c8-4418-9fe5-c0633fddf858/page/UuTrF  
+  
 ------------------------------------------------
 END
 ------------------------------------------------
